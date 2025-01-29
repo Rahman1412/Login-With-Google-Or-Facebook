@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GoogleAndFacebookAuth</string>
+    <string name="web_client_id">708626521351-u6b8367dig015icqiifmi2voi254p90a.apps.googleusercontent.com</string>
+    <string name="facebook_app_id">535117132886563</string>
+    <string name="facebook_client_token">f67f2614a9940d4e620e7a05439c4dbc</string>
+    <string name="fb_login_protocol_scheme">fb535117132886563</string>
+</resources>

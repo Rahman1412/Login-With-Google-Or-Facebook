@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "708626521351",
+    "project_id": "fagauth-3d927",
+    "storage_bucket": "fagauth-3d927.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708626521351:android:7b779bee8224d02f4179a2",
+        "android_client_info": {
+          "package_name": "com.example.googleandfacebookauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708626521351-ev6gtgavh65ue1fv8mq3m1q52jfd4hqa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.googleandfacebookauth",
+            "certificate_hash": "bceef4b8b09aa0a461022d02095f0ddc761f1d2e"
+          }
+        },
+        {
+          "client_id": "708626521351-u6b8367dig015icqiifmi2voi254p90a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPNdJyzhiLP75B54-WE0Zqo-6kMrggfA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708626521351-u6b8367dig015icqiifmi2voi254p90a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
